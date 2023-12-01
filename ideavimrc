@@ -1,3 +1,7 @@
+""" install
+""" set variable XDG_CONFIG_HOME for user variables
+""" set path to non home path
+
 set clipboard=unnamedplus
 
 let mapleader=" "
