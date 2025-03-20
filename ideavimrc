@@ -11,3 +11,4 @@ nnoremap <leader>r :action RenameElement<cr>
 nnoremap <leader>i :action ExtractInterface<cr>
 nnoremap ff :action ReformatCode<cr>
 nnoremap <leader>a :action Annotate<cr>
+nnoremap gc :action AIAssistant.Editor.AskAiAssistantInEditor<cr>
